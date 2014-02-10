@@ -1,0 +1,4 @@
+Template
+========
+
+Minigame Arena Template
